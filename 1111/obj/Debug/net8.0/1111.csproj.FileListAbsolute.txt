@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.AssemblyInfo.cs
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\1111\1111\bin\Debug\net8.0\1111.exe
+C:\Users\abbas\source\repos\1111\1111\bin\Debug\net8.0\1111.deps.json
+C:\Users\abbas\source\repos\1111\1111\bin\Debug\net8.0\1111.runtimeconfig.json
+C:\Users\abbas\source\repos\1111\1111\bin\Debug\net8.0\1111.dll
+C:\Users\abbas\source\repos\1111\1111\bin\Debug\net8.0\1111.pdb
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.dll
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\refint\1111.dll
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.pdb
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\1111.genruntimeconfig.cache
+C:\Users\abbas\source\repos\1111\1111\obj\Debug\net8.0\ref\1111.dll
